@@ -1,0 +1,17 @@
+Tue, 15 Sep 2020 12:45:45 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/
+Tue, 15 Sep 2020 13:48:45 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/api/v1
+Tue, 15 Sep 2020 13:48:51 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/
+Fri, 02 Oct 2020 11:56:32 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/
+Fri, 02 Oct 2020 11:56:48 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/
+Fri, 02 Oct 2020 11:57:44 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/
+Fri, 02 Oct 2020 11:58:16 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/todo
+Fri, 02 Oct 2020 11:58:56 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/todo
+Fri, 02 Oct 2020 11:59:21 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/todo
+Fri, 02 Oct 2020 12:08:27 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/
+Fri, 02 Oct 2020 12:11:48 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/todo?title=llll&description=uuuuu
+Fri, 02 Oct 2020 13:05:37 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/api/v1
+Fri, 02 Oct 2020 13:57:35 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3112/api/v1/product
+Fri, 27 Nov 2020 12:28:38 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/
+Tue, 29 Dec 2020 11:54:55 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3001/products
+Sun, 03 Jan 2021 16:00:21 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3001/api/v1/client
+Mon, 04 Jan 2021 06:46:52 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3001/api/v1/client
